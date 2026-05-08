@@ -3,7 +3,7 @@ title: "Claude Code で Agentic Quality Gate Plugin を実装した話"
 emoji: "🛡️"
 type: "tech"
 topics: ["claudecode", "llm", "devops", "品質保証", "agenticengineering"]
-published: false
+published: true
 ---
 <small>──Karpathy が言う *Agentic Engineering* を「品質バーを下げない」運用に落とし込むため、Claude Code の Subagent / Hook / Skill / MCP を使って Plugin 化し、提案書作成の現場で動かしてみた記録──</small>
 
