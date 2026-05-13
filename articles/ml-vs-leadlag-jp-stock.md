@@ -5,7 +5,7 @@ type: "tech"
 topics: ["python", "machinelearning", "finance", "lightgbm", "pca"]
 published: true
 ---
-<small>― Karpathy の autoresearch で進化した LightGBM 戦略と、JSAI 2026 論文の部分空間正則化付き PCA を同じ土俵で実装・比較した話 ―</small>
+> *― Karpathy の autoresearch で進化した LightGBM 戦略と、JSAI 2026 論文の部分空間正則化付き PCA を同じ土俵で実装・比較した話 ―*
 
 > ## TL;DR — 結論先出し
 >
@@ -383,4 +383,4 @@ uv run lead_lag_daily_backfill.py --start 2015-01-01
 
 ---
 
-<small>※ 図版生成スクリプトと全 NAV ログはリポジトリに含まれる。記事内のあらゆる数値は再現可能。</small>
+> ※ 図版生成スクリプトと全 NAV ログはリポジトリに含まれる。記事内のあらゆる数値は再現可能。
